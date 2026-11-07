@@ -1,0 +1,26 @@
+Cibo, Carne, 19, carne, 2023-12-31
+Cibo, Pesce, 8, pesce, 2024-01-15
+Cibo, Pane, 23, pane, 2024-02-10
+Medicinale, Antibiotico, 4, antibiotico, 2024-06-30
+Medicinale, Antidolorifico, 3, antidolorifico, 2024-05-20
+Medicinale, Bende, 15, bende, 2025-01-01
+Arma, Pistola, 4, pistola, Danno: 25
+Arma, Fucile, 3, fucile, Danno: 50
+Arma, Coltello, 6, coltello, Danno: 10
+Arma, Ascia, 3, ascia, Danno: 30
+Arma, Arco, 3, arco, Danno: 20
+###
+Rick, 80, 90, [Pistola, Fucile], {Carne: 2, Bende: 5}
+Daryl, 70, 85, [Arco, Coltello], {Antidolorifico: 2}
+Michonne, 75, 95, [Katana, Coltello], {Pesce: 5, Antibiotico: 2}
+Glenn, 65, 70, [Coltello, Pistola], {Pane: 1, Carne: 1, Bende: 2}
+Maggie, 70, 80, [Fucile, Coltello], {Pesce: 3, Antidolorifico: 1}
+Carl, 60, 75, [Pistola, Coltello], {}
+Eugene, 55, 60, [Arma_Tecnologica], {Carne: 5, Bende: 6}
+Sasha, 65, 85, [Fucile, Pistola], {}
+Aaron, 70, 78, [Coltello, Arco], {Antibiotico: 2, Carne: 1, Pane: 2}
+Rosita, 68, 82, [Pistola, Coltello], {Bende: 2}
+###
+Cibo, 50
+Medicinale, 22
+Arma, 19
